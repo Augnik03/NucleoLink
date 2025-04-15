@@ -1,0 +1,40 @@
+# Core Scientific Computing
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Chemistry & Molecular Handling
+rdkit-pypi
+openbabel
+
+# Machine Learning
+xgboost
+lightgbm
+
+# Deep Learning Frameworks (Choose PyTorch or TensorFlow)
+torch
+torchvision
+torchaudio
+# OR use TensorFlow instead (optional)
+# tensorflow
+
+# For Graph Neural Networks (optional but powerful for molecules)
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+
+# Download helpers and I/O
+tqdm
+requests
+
+# Jupyter if you're working in notebooks
+notebook
+ipython
+
+# Optional: For smiles augmentation & NLP-style modeling
+transformers
+deepchem

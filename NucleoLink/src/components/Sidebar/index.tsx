@@ -46,6 +46,16 @@ const menuGroups = [
         route: "/research",
       },
       {
+        icon: <LayoutGrid size={25} />,
+        label: "Export Reports",
+        route: "/export",
+      },
+      {
+        icon: <span role="img" aria-label="flask">🧪</span>,
+        label: "Predict Reactions",
+        route: "/reaction-predictor",
+      },
+      {
         icon: <MessageSquareText size={25} />,
         label: "Messages",
         route: "/message",

@@ -51,7 +51,7 @@ const ComponentHeader: React.FC<ComponentHeaderProps> = ({
                     </label>
                     <input
                       type="text"
-                      placeholder="Enter your first name"
+                      placeholder="Enter name of molecule"
                       className="w-full rounded-lg border-[1.5px] bg-transparent  px-5 py-3 text-black outline-none transition focus:border-primary active:border-primary disabled:cursor-default disabled:bg-whiter dark:border-gray-2 dark:bg-[#181818] dark:text-white dark:focus:border-primary"
                     />
                   </div>
@@ -62,7 +62,7 @@ const ComponentHeader: React.FC<ComponentHeaderProps> = ({
                     </label>
                     <input
                       type="text"
-                      placeholder="Enter your last name"
+                      placeholder="Enter the number of molecules"
                       className="w-full rounded-lg border-[1.5px] bg-transparent  px-5 py-3 text-black outline-none transition focus:border-primary active:border-primary disabled:cursor-default disabled:bg-whiter dark:border-gray-2 dark:bg-[#181818] dark:text-white dark:focus:border-primary"
                     />
                   </div>
